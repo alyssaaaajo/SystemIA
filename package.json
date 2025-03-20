@@ -1,0 +1,12 @@
+{
+  "name": "systemia",
+  "version": "1.0.0",
+  "description": "Reflection\r Database migrations help manage schema changes in a structured and version-controlled way, preventing data loss while keeping different environments in sync. They allow teams to modify the database schema incrementally, making it easier to apply updates safely. This ensures smooth transitions between different versions of the database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
